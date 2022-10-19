@@ -1,0 +1,37 @@
+<head>
+  <title>my fav cartton character </title>
+  </head>
+<body >
+  <h1 > Shrenya </h1>
+  <br>
+  <br>
+  <h2> My favourite cartoon character is NINJA </h2>
+  <img src ="https://img.freepik.com/free-vector/cute-ninja-working-laptop-cartoon-vector-icon-illustration-people-technology-icon-isolated-flat_138676-4801.jpg">
+  
+  
+  <br>
+  <br>
+  <a href="https://www.youtube.com/channel/UCB8Dp0OcTLX9vxXwh4TCIzA" target ="_blank">CARTOON LINK </a>
+  <p>Jr. Ninja is 11 years old. He wears blue coloured ninja robes, with a red belt. He always explains what a good ninja does and what others should also do. He is always ready to save his friends.</p>
+  <h6> Created by shrenya with the help my student SHRIYA </h6>
+  
+  ------------------------------------------------------------------------
+  
+  h1
+{
+  color:blue;
+}
+body{
+  text-align:center;
+  background-color:lightpink;
+}
+p
+
+{
+  color:blue;
+  font-size:20px;
+}
+h2{
+  color:magenta;
+}
+
